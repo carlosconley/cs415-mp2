@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Hour_of_Code/Maps/Level_HOC_world.umap",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/MP2TestLevel.umap",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/UI/WBP_HealthWidget.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Mp2TestGamemode.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/UI/WBP_DeathScreen.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/UI/WBP_Score.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/BP_Collectible_A.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/BP_Collectible_B.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/UI/skull_icon.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer/BP_Pursuer.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer/Pursuer_AIController.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer/EAIState.uasset"
+			]
+		}
+	]
+}
