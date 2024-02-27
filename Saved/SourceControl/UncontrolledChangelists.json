@@ -17,11 +17,18 @@
 				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/BP_Collectible_A.uasset",
 				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/BP_Collectible_B.uasset",
 				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/UI/skull_icon.uasset",
-				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer_AIController.uasset",
 				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/BP_Pursuer.uasset",
 				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer/BP_Pursuer.uasset",
 				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer/Pursuer_AIController.uasset",
-				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer/EAIState.uasset"
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer/EAIState.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Mortar/BP_Mortar.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Mortar/BP_Proj.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Archer/BP_Archer.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Archer/BP_Arrow.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/MP2Level.umap",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/UI/WBP_WinScreen.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/BP_Finish.uasset",
+				"C:/Users/Carlos Conley/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/Pursuer_AIController.uasset"
 			]
 		}
 	]
